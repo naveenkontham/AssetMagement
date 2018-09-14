@@ -1,0 +1,22 @@
+{
+  "name": "assetmagement",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://x-access-token:8f51bc4d0b0e7e23fe8e8c1f1e9a2a7b03f4ddee@github.com/naveenkontham/AssetMagement.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naveenkontham/AssetMagement/issues"
+  },
+  "homepage": "https://github.com/naveenkontham/AssetMagement#readme",
+  "dependencies": {
+    "pg": "^7.4.3"
+  }
+}
